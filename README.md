@@ -7,8 +7,8 @@ Wireless home appliance control using 8051 [SMS + Bluetooth]. Built and tested u
 ### Designed and Developed by TEAM VARS
 - [Venkatesh R](https://github.com/Venkatesh13721)
 - [Aswin Sreekumar](https://github.com/aswin-sreekumar)
-- [Rohith Krishnakumar]
-- [Subiksha T V]
+- Rohith Krishnakumar
+- Subiksha T V
 
 ## Working explanation
 - HC-05 TX and GSM module’s TX are multiplexed using a 4:1 MUX, where the select pin is connected to STATE pin of HC-05.
