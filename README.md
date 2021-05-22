@@ -34,5 +34,5 @@ Wireless home appliance control using 8051 [SMS + Bluetooth]. Built and tested u
 ### Test circuit
 ![test_circuit](https://user-images.githubusercontent.com/63254914/119237751-10501080-bb5c-11eb-92f1-058754c14bb2.png)
 
-
+ 
 
