@@ -7,7 +7,7 @@ Wireless home appliance control using 8051 [SMS + Bluetooth]. Built and tested u
 ### Designed and Developed by TEAM VARS
 - [Venkatesh R](https://github.com/Venkatesh13721)
 - [Aswin Sreekumar](https://github.com/aswin-sreekumar)
-- Rohith Krishnakumar
+- [Rohith Krishnakumar](https://github.com/RKKgithub)
 - Subiksha T V
 
 ## Working explanation
