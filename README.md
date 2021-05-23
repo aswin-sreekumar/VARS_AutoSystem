@@ -12,7 +12,7 @@ Wireless home appliance control using 8051 [SMS + Bluetooth]. Built and tested u
 
 ## Working explanation
 - HC-05 TX and GSM module’s TX are multiplexed using a 4:1 MUX, where the select pin is connected to STATE pin of HC-05.
-- The STATE pin goes HIGH when a Bluetooth device is connected. Hence the Bluetooth control is given higher priority over GSM control. [Tested using HARDWARE]
+- The STATE pin goes HIGH when a Bluetooth device is connected. Hence the Bluetooth control is given higher priority over GSM control (Stand-out feature). [Tested using HARDWARE]
 - The STATE pin is also an input to the 8051 to run subroutines according to the communication used.
 
 ### Bluetooth control
